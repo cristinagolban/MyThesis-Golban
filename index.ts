@@ -1,0 +1,7 @@
+export { default as Navbar } from "./navbar" 
+export { default as FeatureCards } from "./homecontent"
+export { default as WorkContent } from "./workContent"
+export { default as ProfessorContent } from "./professorContent"
+export { default as ModalContent } from "./modalContent"
+export { default as UploadContent} from "./uploadContent"
+export { default as ActivityComponent} from "./activityCompenent"
